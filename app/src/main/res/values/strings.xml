@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="city_hint_metric">Moscow</string>
+    <string name="city_header_string">City name</string>
+    <string name="get_request_string">Get weather</string>
+</resources>
